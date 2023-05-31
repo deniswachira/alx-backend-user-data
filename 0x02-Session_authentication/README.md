@@ -1,2 +1,1 @@
-# User authentication service
-
+# 0x07. Session authentication
